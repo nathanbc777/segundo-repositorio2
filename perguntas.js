@@ -23,7 +23,7 @@ criaCartao (
 )
 
  criaCartao(
-    'lingua inglesa'
-    'Como se diz OI em ingles?'
+    'lingua inglesa',
+    'Como se diz OI em ingles?',
     'oi em ingles é HI (rai)'
  )
