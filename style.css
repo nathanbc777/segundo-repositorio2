@@ -15,7 +15,7 @@ body {
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 4rem;
-    gap: 3rem;
+    gap: 2rem;
 }
 
  .cartao {
@@ -23,7 +23,7 @@ body {
     background-color:aqua;
     height: 20rem;
     flex-grow: 1;
-    flex-grow: calc(33% -6rem)
+    flex-grow: calc(20% -6rem); /* 5 cartões por linha */
  }
 
  .cartao__conteudo {
